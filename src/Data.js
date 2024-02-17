@@ -32,7 +32,7 @@ const Data = [
 
   {
     id: 6,
-    img: "https://fakeimg.pl/250x100/?text=Night Sky",
+    img: "https://fakeimg.pl/250x100/?text=Snow",
     link: nightSky,
     title: "Starry Snow: Celestial Symphony",
   },
